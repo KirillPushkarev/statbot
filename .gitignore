@@ -10,3 +10,5 @@ data_ttl/
 data_matching/
 data/*
 .Rproj.user
+venv
+.idea
